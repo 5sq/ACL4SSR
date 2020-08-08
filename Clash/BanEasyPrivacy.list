@@ -1,7 +1,7 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-30 22:04:38
+# 更新：2020-08-04 21:59:18
 # 数量：2525条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
@@ -38,7 +38,6 @@ DOMAIN-SUFFIX,acookie.alibaba.com
 DOMAIN-SUFFIX,act.acotedemoi.com
 DOMAIN-SUFFIX,activities.niagara.comedycentral.com
 DOMAIN-SUFFIX,activity.frequency.com
-DOMAIN-SUFFIX,activity.homescape.com
 DOMAIN-SUFFIX,ad7.bigmir.net
 DOMAIN-SUFFIX,adc-js.nine.com.au
 DOMAIN-SUFFIX,adc.9news.com.au
@@ -118,7 +117,6 @@ DOMAIN-SUFFIX,analytics.clickpathmedia.com
 DOMAIN-SUFFIX,analytics.cmg.net
 DOMAIN-SUFFIX,analytics.cocolog-nifty.com
 DOMAIN-SUFFIX,analytics.codigo.se
-DOMAIN-SUFFIX,analytics.cohesionapps.com
 DOMAIN-SUFFIX,analytics.competitoor.com
 DOMAIN-SUFFIX,analytics.convertlanguage.com
 DOMAIN-SUFFIX,analytics.cynapse.com
@@ -129,6 +127,7 @@ DOMAIN-SUFFIX,analytics.dol.gr
 DOMAIN-SUFFIX,analytics.dvidshub.net
 DOMAIN-SUFFIX,analytics.ecosia.org
 DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk
+DOMAIN-SUFFIX,analytics.erepublic.com
 DOMAIN-SUFFIX,analytics.favcy.com
 DOMAIN-SUFFIX,analytics.footballdb.com
 DOMAIN-SUFFIX,analytics.foresee.com
@@ -274,6 +273,7 @@ DOMAIN-SUFFIX,as.yomonda.de
 DOMAIN-SUFFIX,aserve.directorym.com
 DOMAIN-SUFFIX,astat.nikkei.com
 DOMAIN-SUFFIX,asumi.shinobi.jp
+DOMAIN-SUFFIX,at.pagesjaunes.fr
 DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,atax.gamermetrics.com
 DOMAIN-SUFFIX,atax.teamxbox.com
@@ -541,6 +541,7 @@ DOMAIN-SUFFIX,compare.easyviajar.com
 DOMAIN-SUFFIX,compare.liligo.com
 DOMAIN-SUFFIX,compteur.developpez.com
 DOMAIN-SUFFIX,compteur.websiteout.net
+DOMAIN-SUFFIX,confiant-integrations.global.ssl.fastly.net
 DOMAIN-SUFFIX,confirm-referer.glrsales.com
 DOMAIN-SUFFIX,consent.api.osano.com
 DOMAIN-SUFFIX,consent.inm.ie
@@ -643,7 +644,6 @@ DOMAIN-SUFFIX,d.haberler.com
 DOMAIN-SUFFIX,d.nativendo.de
 DOMAIN-SUFFIX,d.omsnative.de
 DOMAIN-SUFFIX,d.shareaholic.com
-DOMAIN-SUFFIX,d1.abtshield.com
 DOMAIN-SUFFIX,d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 DOMAIN-SUFFIX,da.netease.com
 DOMAIN-SUFFIX,da.virginmedia.com
@@ -832,7 +832,6 @@ DOMAIN-SUFFIX,events.avantisvideo.com
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,events.chaordicsystems.com
 DOMAIN-SUFFIX,events.demoup.com
-DOMAIN-SUFFIX,events.godaddy.com
 DOMAIN-SUFFIX,events.guesttoguest.com
 DOMAIN-SUFFIX,events.il.fi
 DOMAIN-SUFFIX,events.ingatlan.com
@@ -1179,7 +1178,6 @@ DOMAIN-SUFFIX,m.lolvsdota.cn
 DOMAIN-SUFFIX,m.trb.com
 DOMAIN-SUFFIX,ma.register.it
 DOMAIN-SUFFIX,magnify360-cdn.s3.amazonaws.com
-DOMAIN-SUFFIX,make.cohesionapps.com
 DOMAIN-SUFFIX,mar.vip.com
 DOMAIN-SUFFIX,mark.isbank.com.tr
 DOMAIN-SUFFIX,marketing.alibaba.com
@@ -1434,6 +1432,7 @@ DOMAIN-SUFFIX,pixel6.wp.pl
 DOMAIN-SUFFIX,pixels.livingsocial.com
 DOMAIN-SUFFIX,pixiedust.buzzfeed.com
 DOMAIN-SUFFIX,play.mix.kinostuff.com
+DOMAIN-SUFFIX,plumbus.minutemediaservices.com
 DOMAIN-SUFFIX,pmetrics.performancing.com
 DOMAIN-SUFFIX,po.ponant.com
 DOMAIN-SUFFIX,pos.baidu.com
@@ -1999,6 +1998,7 @@ DOMAIN-SUFFIX,t.pswec.com
 DOMAIN-SUFFIX,t.quisma.com
 DOMAIN-SUFFIX,t.raptorsmartadvisor.com
 DOMAIN-SUFFIX,t.regionsjob.com
+DOMAIN-SUFFIX,t.seesaa.net
 DOMAIN-SUFFIX,t.sgc.io
 DOMAIN-SUFFIX,t.sharethis.com
 DOMAIN-SUFFIX,t.signalayer.com
@@ -2393,7 +2393,6 @@ DOMAIN-SUFFIX,tw.i.hulu.com
 DOMAIN-SUFFIX,twch.20min.ch
 DOMAIN-SUFFIX,ubt.berlingskemedia.net
 DOMAIN-SUFFIX,uestat.video.qiyi.com
-DOMAIN-SUFFIX,uid.mavencoalition.io
 DOMAIN-SUFFIX,up.boston.com
 DOMAIN-SUFFIX,up.nytimes.com
 DOMAIN-SUFFIX,upstats.yadro.ru
@@ -2453,6 +2452,7 @@ DOMAIN-SUFFIX,vstats.digitaltrends.com
 DOMAIN-SUFFIX,vtf2f.banque-casino.fr
 DOMAIN-SUFFIX,vtrtl.de
 DOMAIN-SUFFIX,vv.ricardo.ch
+DOMAIN-SUFFIX,wa.gmx.fr
 DOMAIN-SUFFIX,wa.metro.co.uk
 DOMAIN-SUFFIX,wa.ui-portal.de
 DOMAIN-SUFFIX,wal.wolfram.com
